@@ -1,1 +1,3 @@
 # courserepo
+# First repo for Data Scientist course
+# Easy come....
